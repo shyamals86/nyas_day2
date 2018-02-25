@@ -1,3 +1,0 @@
-shyamal@Shyamal-Surface:~$ git config --global user.name "shyamals86"
-shyamal@Shyamal-Surface:~$ git config --global user.email "subramas@mskcc.org"
-shyamal@Shyamal-Surface:~$ git config --global color.ui "auto"

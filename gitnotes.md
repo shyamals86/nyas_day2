@@ -17,3 +17,17 @@ $$ f(x) = x^2$$
 * `git config --global color.ui "auto"`:this sets the git repository
 * `git init`: this initializes git repository
 * `git status`: this tells us statuss of repo ore repository
+* `git add <filename>`:adds everytihng in the folder to the git repository for tracking
+* `git add .`:adds everytihng in the folder to the git repository for tracking
+* `git commit`: Dedicate myself to a version
+* `git commit -m "First Commit"`: Commits with a comment/message
+* `git diff`: gives the differences in the git
+
+---
+
+### Tracking Changes
+
++Now what...
++
++Hi again.
++
