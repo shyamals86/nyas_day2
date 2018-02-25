@@ -21,6 +21,7 @@ $$ f(x) = x^2$$
 * `git add .`:adds everytihng in the folder to the git repository for tracking
 * `git commit`: Dedicate myself to a version
 * `git commit -m "First Commit"`: Commits with a comment/message
+Always `git add` and `git commit` to update the repo
 * `git diff`: gives the differences in the git
 
 ---
@@ -31,3 +32,5 @@ $$ f(x) = x^2$$
 +
 +Hi again.
 +
+'
+
